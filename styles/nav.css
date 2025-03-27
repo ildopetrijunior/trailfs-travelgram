@@ -14,11 +14,10 @@ nav ul {
 }
 
 nav ul li {
-    padding-block: 8px;
+    align-self: center;
 }
 
 nav ul li:last-child img {
-    padding-block: 0;
     width: 40px;
     height: 40px;
     object-fit: cover;
