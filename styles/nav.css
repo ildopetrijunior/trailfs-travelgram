@@ -1,6 +1,5 @@
 nav {
     display: flex;
-    border: red solid 1px;
     justify-content: space-between;
     align-items: center;
     padding-block: 20px;
