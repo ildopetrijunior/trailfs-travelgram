@@ -37,6 +37,11 @@ body {
     background-color: var(--surface-color);
 }
 
+h1 {
+    font: var(--title-lg);
+    color: var(--text-color-primary);
+}
+
 a {
     font: var(--text);
     text-decoration: none;
